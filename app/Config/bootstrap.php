@@ -109,3 +109,4 @@ CakeLog::config('error', array(
 ));
 
 CakePlugin::load('StartupBlog', array('bootstrap' => false, 'routes' => true));
+CakePlugin::load('Migrations', array('bootstrap' => false, 'routes' => false));
