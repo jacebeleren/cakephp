@@ -1,0 +1,3 @@
+[submodule "app/Plugin/StartupBlog"]
+	path = app/Plugin/StartupBlog
+	url = git@github.com:jacebeleren/startupblog.git

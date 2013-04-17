@@ -108,4 +108,4 @@ CakeLog::config('error', array(
 	'file' => 'error',
 ));
 
-CakePlugin::load('StartupBlog', array('bootstrap' => false, 'routes' => false));
+CakePlugin::load('StartupBlog', array('bootstrap' => false, 'routes' => true));
